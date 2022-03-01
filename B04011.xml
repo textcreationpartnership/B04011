@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Lord Fleetwood, from an officer in the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04011</idno>
+            <idno type="STC">Wing L1741</idno>
+            <idno type="STC">ESTC R234578</idno>
+            <idno type="EEBO-CITATION">51784580</idno>
+            <idno type="OCLC">ocm 51784580</idno>
+            <idno type="VID">174989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174989)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2708:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Lord Fleetwood, from an officer in the army.</title>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Christopher Higgins in Harts Close ...,</publisher>
+                  <pubPlace>Edinburgh,</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174989:1"/>
+            <pb facs="tcp:174989:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE LORD <hi>FLEETWOOD,</hi> FROM AN OFFICER IN THE ARMY.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Chriſtopher Higgins,</hi> in <hi>Harts</hi> Cloſe, over againſt the Trone. Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:174989:2"/>
+            <pb n="3" facs="tcp:174989:2"/>
+            <head>A LETTER TO THE LORD <hi>FLEETWOOD,</hi> FROM An OFFICER in the <hi>Army.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am given to underſtand, that the Com<g ref="char:EOLhyphen"/>mittee of Officers, to whom the late Paper was recommitted from the Gen. Council, have added ſeveral things beyond their Inſtructions, as namely, That no Officer be laid aſide but by a Court-Martial, nor any Commiſſio<g ref="char:EOLhyphen"/>nated by Parliament, but what ſhall be approved by the Committee of Nomination. My Lord, I know this is a pleaſing Bait to ſuch as put a higher value on their Commiſſions, than on their duty to the Parliament, whence they derived them; It ſeems ſtrange to me, that this Army, who could ſubject themſelvs and Com<g ref="char:EOLhyphen"/>miſſions to the luſts of the late ſingle perſon, to be laid aſide at the pleaſure of him, who was but a Servant as themſelves, muſt now impoſe and limit the Supream
+<pb n="4" facs="tcp:174989:3"/> Authority of the Nation: I never expect that injuſtice from a Parliament, which I have ſeen practiſed by Court-martials, Witneſſe the Caſheering and cruel Im<g ref="char:EOLhyphen"/>priſonment of ſome faithfull Officers, only for menti<g ref="char:EOLhyphen"/>oning the intollerable Pride and Luxury of the late Court; the perſons that were Judges, I heard ſome of them confeſſe, that they were acted through a ſpirit of fear againſt their own light; I ſay again, I never heard of any ſuch thing done by Parliament. My Lord, I hope we are all ſenſible, that the Parliament have not often uſed their power in this caſe, and from thence comes a great part of our Miſeries; for, had they time<g ref="char:EOLhyphen"/>ly clipped the wings of their old General, doubtleſſe the Nation had never known the Miſeries and Confu<g ref="char:EOLhyphen"/>ſions that ſince have come upon it; Nay, we our ſelves ſhould never have had temptations to thoſe Apoſtacies, that defiled our Conſciences before GOD, and our Reputation to the World. My Lord, we are either Servants or Maſters; If Maſters, let us tell the Parlia<g ref="char:EOLhyphen"/>ment, that we only called them there to take the <hi>Odium</hi> of raiſing Money upon the People to maintain us, and let them know what tearms they muſt have; If we be Servants raiſed and maintained by them, let us not offer that to them which we would abhor our own ſervants ſhould offer to us. My Lord, your Lordſhip hath many domeſtick ſervants, and, I perſwade my ſelf, a ſober family, and I think while they carry themſelves well, it were harſhneſſe in your Lordſhip to turn any away to take another in the room; But, my Lord, if any one ſervant ſhould come and ſay, I challenge it as my right to continue, unleſſe diſmiſt by my fellow ſer<g ref="char:EOLhyphen"/>vants, though I know your Lordſhip of a mild temper, yet certainly you would think that ſervant unworthy
+<pb n="5" facs="tcp:174989:3"/> to continue in <hi>Wallingford</hi> houſe. As to what is pro<g ref="char:EOLhyphen"/>poſed touching the Committee of Nomination, I have not heard above two or three Officers in all the Army that have been Commiſſionated by the Parliament, but what have been approved by that Committee, and by them the Army hath been moulded. I fear, my Lord, the indigent families of many poor Officers, diſcharged by that Committee, have a loud cry, as having had ſuch meaſure as never was met by Parliaments, ſome Regiments ten, ſome fourteen, ſome twenty Officers laid aſide, that had ſerved, many of them eighteen years, and never any Crime laid to their charge, only to pre<g ref="char:EOLhyphen"/>fer Friends and Relations, many of which never drew Sword in this Service: Let the world judge whether it be fit to impoſe ſuch Steerſmen on a Parliament; not that I deſire to detract from the worth of thoſe worthy Gentlemen of that Committee, I think it leſſe injury to ſay they acted upon Miſ-information, than to lay ſuch an Imputation on the Parliament for what was done in their late Vote. My Lord, I have thus far ſpoken as to the matter in the Propoſal, I ſhall now crave liberty to offer my thoughts as to the end: My Lord, to my underſtanding, the deſign of this Propoſal is to create an Intereſt in the Army diſtinct to that of Parliament and Nation, and this (ſay, ſome) is our beſt Security againſt the Spirit of the Nation, which may poſſibly be introduced in Parliaments. My Lord, I find many of your Officers, eſpecially thoſe of the late Northern Brigade, very much decry the Conſtitutions of Corpo<g ref="char:EOLhyphen"/>rations, as Emblems of Monarchy: It ſeems to me In<g ref="char:EOLhyphen"/>congruous, that the ſame men ſhould ſtrive to bring the Army into a Corporation: My Lord, were it poſſible to form an Army of Saints in reality, ſuch as would
+<pb n="6" facs="tcp:174989:4"/> undoubtedly abide ſtedfaſt, and could this Army ſup<g ref="char:EOLhyphen"/>port it ſelf either by its own property and intereſt, or by extraordinary food from heaven, I ſhould not deny them a Charter, as the moſt renowned Incorporated Body upon the face of the earth. But, my Lord, ſeing this Army conſiſts of men ſubject to infirmity, that this Army was raiſed by Authority of this Parliament, called forth to aſſert and defend the Birthright and Li<g ref="char:EOLhyphen"/>berty of the meaneſt man in the Nation as well as their own, and that this Army hath been paid and maintained out of the purſes of the People, and cannot in future ſtand but by the ſame means, ſeing there remaineth in this Army but a handfull of thoſe men that bore the burden and hear of the War, many being retired to private Callings that have equally Merited with our ſelves; that conſidering the Diſtemper now on the Spirit of the Nation, hath much of it ariſen from the unſtable Spirit of the Army, that ſet up what they pull down, and pull down what they ſet up; and now, if I miſtake not, ſeem to aſſert an Intereſt of its own in<g ref="char:EOLhyphen"/>dependent to that of the Nation, in all which the world will judge <hi>ſelf</hi> at the bottom; Let us now think it our duty to ſettle on ſuch a <hi>Baſis</hi> as every mans Intereſt may be involved with our own, and all men ſee their own property and right maintained: Certainly he that doth righteouſly ſhall have praiſe with men; and the laudable practice of this Army, tending to ſubjection to that Authority, under which God hath ſo much bleſ<g ref="char:EOLhyphen"/>ſed us, ſhall allay the fury of the Spirit of the Nation, when they ſhall ſee Righteouſneſſe and Truth exalted in the midſt of us, and every man able to ſay, That his Intereſt is imbarqued in this Bottom; the contrary hereof will turn every mans hand againſt us, and ours
+<pb n="7" facs="tcp:174989:4"/> againſt every man: Let us not think that if we go out of the way of the Lord, that our Numbers, our Horſes, our Armies, our Succeſſes, our courage or skill can ſave us; We have ſeen with our eyes, men of greater might than our ſelves, blaſted by inconſiderable means. My Lord, the moſt Righteous Government muſt moſt ne<g ref="char:EOLhyphen"/>ceſſarily be upheld by the Sword; But the Lord deliver this Nation from a Sword-government. For my own part, I was never an enemy to a ſingle Perſon, becauſe ſuch, but becauſe he uſurped power, being neither cal<g ref="char:EOLhyphen"/>led thereto by God, nor man; and if twenty or thirty, nay, a whole Army ſhould uſurp the like Authority, I ſhould be a like minded towards them; for 'tis not the Number that makes the difference betwixt Tyrants and lawfull Magiſtrates. I have thought good to offer this to your Lordſhip, to the end, if your Lordſhip find any thing of reaſon from hence againſt the offering of that Propoſal, your Lordſhip would ſtifle it in the birth, that ſuch a thing may never go forth to the world, to the ſhame of an Army that ſo lately declared their ſor<g ref="char:EOLhyphen"/>row for their former backſlidings. I am,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt humble and faithfull Servant.</signed>
+            </closer>
+            <pb facs="tcp:174989:5"/>
+            <pb facs="tcp:174989:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
